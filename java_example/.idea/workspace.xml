@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb2cfde3-0a06-4387-a732-6b7462e50cc0" name="Default" comment="" />
+    <list default="true" id="cb2cfde3-0a06-4387-a732-6b7462e50cc0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/school/selenium/TestBase.java" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/school/selenium/TestBase.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -49,18 +51,18 @@
       <file leaf-file-name="MenuAdminTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/school/selenium/MenuAdminTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="37" column="30" lean-forward="true" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+            <state relative-caret-position="1">
+              <caret line="23" column="59" lean-forward="true" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StickersCheck.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StickersCheck.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/school/selenium/StickersCheck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+            <state relative-caret-position="334">
+              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,11 +70,56 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="CountrySortingTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/school/selenium/CountrySortingTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="60" column="7" lean-forward="true" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GeoZonesSortingTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/school/selenium/GeoZonesSortingTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="48" column="8" lean-forward="true" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#903#911#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InvokeMethod.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/statements/InvokeMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReflectiveCallable.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="TestBase.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/school/selenium/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="289">
+              <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -452,11 +499,15 @@
         <option value="$PROJECT_DIR$/src/main/java/ru/stqa/school/selenium/MyFirstTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/stqa/school/selenium/MyFirstTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/stqa/school/selenium/StickersCheck.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/school/selenium/TestBase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/school/selenium/CountrySortingTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/school/selenium/GeoZonesSortingTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="x" value="127" />
+    <option name="y" value="31" />
     <option name="width" value="1440" />
     <option name="height" value="829" />
   </component>
@@ -546,8 +597,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.StickersCheck">
-    <configuration name="MyFirstTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.GeoZonesSortingTest">
+    <configuration name="CountrySortingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="ru.stqa.school.selenium.*" />
@@ -558,7 +609,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="ru.stqa.school.selenium" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.school.selenium.MyFirstTest" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.school.selenium.CountrySortingTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -572,20 +623,70 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="MyFirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CountrySortingTest.countrySortingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="ru.stqa.school.selenium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="java_example_main" />
+      <module name="java_example_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="ru.stqa.school.selenium" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.school.selenium.MyFirstTest" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.school.selenium.CountrySortingTest" />
+      <option name="METHOD_NAME" value="countrySortingTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="GeoZonesSortingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.school.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="java_example_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ru.stqa.school.selenium" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.school.selenium.GeoZonesSortingTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="GeoZonesSortingTest.geoZonesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.school.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="java_example_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ru.stqa.school.selenium" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.school.selenium.GeoZonesSortingTest" />
+      <option name="METHOD_NAME" value="geoZonesTest" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -611,31 +712,6 @@
       <option name="MAIN_CLASS_NAME" value="ru.stqa.school.selenium.StickersCheck" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="StickersCheck.stickersCheckTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ru.stqa.school.selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="java_example_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="ru.stqa.school.selenium" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.school.selenium.StickersCheck" />
-      <option name="METHOD_NAME" value="stickersCheckTest" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -727,18 +803,20 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.MyFirstTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.MyFirstTest (1)" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.StickersCheck" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.StickersCheck.stickersCheckTest" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.StickersCheck" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.CountrySortingTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.CountrySortingTest.countrySortingTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.GeoZonesSortingTest.geoZonesTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.GeoZonesSortingTest" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.StickersCheck" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.StickersCheck.stickersCheckTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.MyFirstTest (1)" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.MyFirstTest" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.GeoZonesSortingTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.GeoZonesSortingTest.geoZonesTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.CountrySortingTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.CountrySortingTest.countrySortingTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.StickersCheck" />
       </list>
     </recent_temporary>
   </component>
@@ -759,39 +837,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StickersCheck - 2018.02.18 at 20h 24m 58s.xml">
-      <configuration name="StickersCheck" configurationId="JUnit" />
+    <history-entry file="GeoZonesSortingTest - 2018.02.24 at 18h 10m 04s.xml">
+      <configuration name="GeoZonesSortingTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StickersCheck - 2018.02.18 at 20h 25m 12s.xml">
-      <configuration name="StickersCheck" configurationId="JUnit" />
+    <history-entry file="GeoZonesSortingTest - 2018.02.24 at 18h 17m 20s.xml">
+      <configuration name="GeoZonesSortingTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StickersCheck - 2018.02.18 at 20h 53m 12s.xml">
-      <configuration name="StickersCheck" configurationId="JUnit" />
+    <history-entry file="GeoZonesSortingTest - 2018.02.24 at 18h 17m 50s.xml">
+      <configuration name="GeoZonesSortingTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StickersCheck_stickersCheckTest - 2018.02.18 at 20h 23m 01s.xml">
-      <configuration name="StickersCheck.stickersCheckTest" configurationId="JUnit" />
+    <history-entry file="GeoZonesSortingTest - 2018.02.24 at 18h 20m 53s.xml">
+      <configuration name="GeoZonesSortingTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StickersCheck_stickersCheckTest - 2018.02.18 at 20h 28m 50s.xml">
-      <configuration name="StickersCheck.stickersCheckTest" configurationId="JUnit" />
+    <history-entry file="GeoZonesSortingTest - 2018.02.24 at 18h 21m 44s.xml">
+      <configuration name="GeoZonesSortingTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StickersCheck_stickersCheckTest - 2018.02.18 at 20h 31m 01s.xml">
-      <configuration name="StickersCheck.stickersCheckTest" configurationId="JUnit" />
+    <history-entry file="GeoZonesSortingTest_geoZonesTest - 2018.02.24 at 18h 05m 03s.xml">
+      <configuration name="GeoZonesSortingTest.geoZonesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StickersCheck_stickersCheckTest - 2018.02.18 at 20h 33m 14s.xml">
-      <configuration name="StickersCheck.stickersCheckTest" configurationId="JUnit" />
+    <history-entry file="GeoZonesSortingTest_geoZonesTest - 2018.02.24 at 18h 12m 28s.xml">
+      <configuration name="GeoZonesSortingTest.geoZonesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StickersCheck_stickersCheckTest - 2018.02.18 at 20h 43m 09s.xml">
-      <configuration name="StickersCheck.stickersCheckTest" configurationId="JUnit" />
+    <history-entry file="GeoZonesSortingTest_geoZonesTest - 2018.02.24 at 18h 13m 16s.xml">
+      <configuration name="GeoZonesSortingTest.geoZonesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StickersCheck_stickersCheckTest - 2018.02.18 at 20h 46m 22s.xml">
-      <configuration name="StickersCheck.stickersCheckTest" configurationId="JUnit" />
+    <history-entry file="GeoZonesSortingTest_geoZonesTest - 2018.02.24 at 18h 15m 16s.xml">
+      <configuration name="GeoZonesSortingTest.geoZonesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StickersCheck_stickersCheckTest - 2018.02.18 at 20h 47m 54s.xml">
-      <configuration name="StickersCheck.stickersCheckTest" configurationId="JUnit" />
+    <history-entry file="GeoZonesSortingTest_geoZonesTest - 2018.02.24 at 18h 15m 40s.xml">
+      <configuration name="GeoZonesSortingTest.geoZonesTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="829" extended-state="6" />
+    <frame x="127" y="31" width="1440" height="829" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -849,7 +927,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <option name="time" value="26" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -934,30 +1012,78 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/school/selenium/MyFirstTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/school/selenium/TestBase.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding>
+            <element signature="e#1464#1658#0" expanded="false" />
+            <element signature="e#1657#1658#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/school/selenium/StickersCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/school/selenium/MenuAdminTest.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/statements/InvokeMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="37" column="30" lean-forward="true" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+        <state relative-caret-position="240">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/school/selenium/StickersCheck.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/school/selenium/MenuAdminTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+        <state relative-caret-position="1">
+          <caret line="23" column="59" lean-forward="true" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/school/selenium/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/school/selenium/CountrySortingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="60" column="7" lean-forward="true" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/school/selenium/GeoZonesSortingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="8" lean-forward="true" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#903#911#0" expanded="true" />
           </folding>
         </state>
       </provider>

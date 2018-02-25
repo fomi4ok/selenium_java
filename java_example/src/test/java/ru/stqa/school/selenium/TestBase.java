@@ -8,6 +8,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import java.util.List;
+
 public class TestBase {
 
   public WebDriver driver;
@@ -20,6 +22,18 @@ public class TestBase {
     } catch (NoSuchElementException ex) {
       return false;
     }
+  }
+
+  public boolean isSorted(List<String> list){
+
+    for(int i=0;i< list.size()-1;i++)
+    {
+      if(list.get(i).compareTo(list.get(i+1))>0)
+      {
+        return false;
+      }
+    }
+    return true;
   }
 
 
