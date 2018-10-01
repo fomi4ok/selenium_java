@@ -34,6 +34,7 @@ public class NewRegistrationTest extends TestBase{
 
     String timeStamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());
     String email= "test"+ timeStamp + "@test.com";
+
     driver.findElement(By.name("email")).sendKeys(email);
     driver.findElement(By.name("phone")).sendKeys("+16464646444");
     driver.findElement(By.name("password")).sendKeys("Password1");
